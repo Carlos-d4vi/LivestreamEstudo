@@ -21,3 +21,4 @@ Este é um projeto de estudo para aprender como usar o Node-Media-Server com Exp
 ### Conclusão
 
 Essa estrutura fornece uma base sólida para um projeto com Node.js, Express e Node-Media-Server, com o FFmpeg sendo utilizado para transcodificação de vídeos. Ela é organizada e pode ser facilmente expandida à medida que o projeto cresce.
+
